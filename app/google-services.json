@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "173956545954",
+    "firebase_url": "https://memo-to-do.firebaseio.com",
+    "project_id": "memo-to-do",
+    "storage_bucket": "memo-to-do.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173956545954:android:a7943b7d427817d4",
+        "android_client_info": {
+          "package_name": "com.kmu.memo_to_do"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173956545954-rknglkbaoqcsqrn31fndvbsqk916ifgp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kmu.memo_to_do",
+            "certificate_hash": "8e5314f97a20b20b5617c14bf3709c0713735d87"
+          }
+        },
+        {
+          "client_id": "173956545954-9498k0i0kc9h4lfc43c7mgr2hodgc6de.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByx9C0gXHoJiXUtVCThZmbiDMEcLda49g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173956545954-9498k0i0kc9h4lfc43c7mgr2hodgc6de.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
